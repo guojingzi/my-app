@@ -12,32 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-05-21T08:50:14.192739883Z"
+    created: "2024-05-21T09:16:05.585161217Z"
     description: Example extension for a top-level product on Rancher Dashboard
-    digest: 8d7cb97abf90e1b1466e67b1c5d20aaec7a01d8e609890ff393319780c2a353a
+    digest: a1f201fb296b185a0d591d33fc4823dea46542efd3bb24a8beaa105d8d2e8da8
     name: test
     type: application
     urls:
     - assets/test/test-0.1.0.tgz
     version: 0.1.0
-  top-level-product:
-  - annotations:
-      catalog.cattle.io/certified: rancher
-      catalog.cattle.io/kube-version: '>= 1.16.0-0'
-      catalog.cattle.io/namespace: cattle-ui-plugin-system
-      catalog.cattle.io/os: linux
-      catalog.cattle.io/permits-os: linux, windows
-      catalog.cattle.io/rancher-version: '>= 2.7.0-0'
-      catalog.cattle.io/scope: management
-      catalog.cattle.io/ui-component: plugins
-    apiVersion: v2
-    appVersion: 0.1.0
-    created: "2024-05-21T08:50:14.193031288Z"
-    description: Example extension for a top-level product on Rancher Dashboard
-    digest: 29654ddc62f1abb9ba5d73ed061acc2d963dcc8c891bb8a0b07879a7ad082345
-    name: top-level-product
-    type: application
-    urls:
-    - assets/test/top-level-product-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-05-21T08:50:14.192279407Z"
+generated: "2024-05-21T09:16:05.584632085Z"
