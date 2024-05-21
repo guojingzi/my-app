@@ -1,5 +1,5 @@
 {
-  "name": "top-level-product",
+  "name": "test",
   "description": "Example extension for a top-level product on Rancher Dashboard",
   "version": "0.1.0",
   "private": false,

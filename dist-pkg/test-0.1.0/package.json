@@ -1,5 +1,5 @@
 {
-  "name": "top-level-product",
+  "name": "test",
   "description": "Example extension for a top-level product on Rancher Dashboard",
   "version": "0.1.0",
   "private": false,
@@ -15,5 +15,5 @@
   "files": [
     "**/*"
   ],
-  "main": "top-level-product-0.1.0.umd.min.js"
+  "main": "test-0.1.0.umd.min.js"
 }

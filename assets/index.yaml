@@ -3,18 +3,18 @@ entries:
   test:
   - annotations:
       catalog.cattle.io/certified: rancher
-      catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.29.0-0'
+      catalog.cattle.io/kube-version: '>= 1.16.0-0'
       catalog.cattle.io/namespace: cattle-ui-plugin-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux, windows
-      catalog.cattle.io/rancher-version: '>= v2.8.3'
+      catalog.cattle.io/rancher-version: '>= 2.7.0-0'
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-05-11T10:21:07.183121681Z"
-    description: test plugin
-    digest: 7be8806573dbdab8e7585f843e95860ea5df7ebc4c4806e19408ff0128fc757b
+    created: "2024-05-21T08:50:14.192739883Z"
+    description: Example extension for a top-level product on Rancher Dashboard
+    digest: 8d7cb97abf90e1b1466e67b1c5d20aaec7a01d8e609890ff393319780c2a353a
     name: test
     type: application
     urls:
@@ -32,7 +32,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-05-21T08:32:28.437095046Z"
+    created: "2024-05-21T08:50:14.193031288Z"
     description: Example extension for a top-level product on Rancher Dashboard
     digest: 29654ddc62f1abb9ba5d73ed061acc2d963dcc8c891bb8a0b07879a7ad082345
     name: top-level-product
@@ -40,4 +40,4 @@ entries:
     urls:
     - assets/test/top-level-product-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-21T08:32:28.436619705Z"
+generated: "2024-05-21T08:50:14.192279407Z"

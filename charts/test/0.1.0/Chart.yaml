@@ -10,6 +10,6 @@ annotations:
 apiVersion: v2
 appVersion: 0.1.0
 description: Example extension for a top-level product on Rancher Dashboard
-name: top-level-product
+name: test
 type: application
 version: 0.1.0
