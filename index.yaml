@@ -20,24 +20,4 @@ entries:
     urls:
     - assets/test/test-0.1.0.tgz
     version: 0.1.0
-  top-level-product:
-  - annotations:
-      catalog.cattle.io/certified: rancher
-      catalog.cattle.io/kube-version: '>= 1.16.0-0'
-      catalog.cattle.io/namespace: cattle-ui-plugin-system
-      catalog.cattle.io/os: linux
-      catalog.cattle.io/permits-os: linux, windows
-      catalog.cattle.io/rancher-version: '>= 2.7.0-0'
-      catalog.cattle.io/scope: management
-      catalog.cattle.io/ui-component: plugins
-    apiVersion: v2
-    appVersion: 0.1.0
-    created: "2024-05-21T08:35:15.997650169Z"
-    description: Example extension for a top-level product on Rancher Dashboard
-    digest: 607c123581f10eb97407c1e0f46fa7410f07c25959783cf286ff67c6069d9aaf
-    name: top-level-product
-    type: application
-    urls:
-    - https://github.com/guojingzi/my-app/releases/download/top-level-product-0.1.0/top-level-product-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-05-21T08:35:15.997674605Z"
+generated: "2024-05-11T10:21:07.182662112Z"
