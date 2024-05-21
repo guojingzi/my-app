@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-05-21T09:23:47.711817795Z"
+    created: "2024-05-21T09:45:15.448561114Z"
     description: Example extension for a top-level product on Rancher Dashboard
-    digest: 70e96b75cf922cc2c2fd7d2c37bb6f7c48875477e0aba725cddf503e7c8516b0
+    digest: 11f680216a87fbf78f33026d0ae5d6bc1229f2f249344aeada41a09f8681db54
     name: test
     type: application
     urls:
     - assets/test/test-0.1.1.tgz
     version: 0.1.1
-generated: "2024-05-21T09:23:47.710993629Z"
+generated: "2024-05-21T09:45:15.448065019Z"

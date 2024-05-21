@@ -3,21 +3,21 @@ entries:
   test:
   - annotations:
       catalog.cattle.io/certified: rancher
-      catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.29.0-0'
+      catalog.cattle.io/kube-version: '>= 1.16.0-0'
       catalog.cattle.io/namespace: cattle-ui-plugin-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux, windows
-      catalog.cattle.io/rancher-version: '>= v2.8.3'
+      catalog.cattle.io/rancher-version: '>= 2.7.0-0'
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-05-11T10:21:07.183121681Z"
-    description: test plugin
-    digest: 7be8806573dbdab8e7585f843e95860ea5df7ebc4c4806e19408ff0128fc757b
+    created: "2024-05-21T09:45:15.448561114Z"
+    description: Example extension for a top-level product on Rancher Dashboard
+    digest: 11f680216a87fbf78f33026d0ae5d6bc1229f2f249344aeada41a09f8681db54
     name: test
     type: application
     urls:
     - assets/test/test-0.1.1.tgz
     version: 0.1.1
-generated: "2024-05-11T10:21:07.182662112Z"
+generated: "2024-05-21T09:45:15.448065019Z"
