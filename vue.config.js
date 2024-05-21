@@ -1,6 +1,6 @@
 const config = require('@rancher/shell/vue.config');
 
 module.exports = config(__dirname, {
-  excludes: ['test'],
+  excludes: ['text'],
   // excludes: ['fleet', 'example']
 });
