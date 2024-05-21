@@ -11,13 +11,13 @@ entries:
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
-    appVersion: 0.1.0
+    appVersion: 0.1.1
     created: "2024-05-11T10:21:07.183121681Z"
     description: test plugin
     digest: 7be8806573dbdab8e7585f843e95860ea5df7ebc4c4806e19408ff0128fc757b
     name: test
     type: application
     urls:
-    - assets/test/test-0.1.0.tgz
-    version: 0.1.0
+    - assets/test/test-0.1.1.tgz
+    version: 0.1.1
 generated: "2024-05-11T10:21:07.182662112Z"
