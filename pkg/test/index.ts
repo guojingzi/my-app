@@ -30,7 +30,7 @@ export default function(plugin: IPlugin) {
     { resource: ['node'] },
     {
       name:     'some-prop-col',
-      labelKey: 'onetouch Url',
+      label: 'Onetouch Url',
       getValue: (row: any) => {
         console.log(row)
         InternalIP = row.status.addresses[0].address+":30003";
