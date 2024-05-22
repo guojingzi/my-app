@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "description": "Example extension for a top-level product on Rancher Dashboard",
+  "description": "Extensions Api demo extension",
   "version": "0.1.0",
   "private": false,
   "rancher": true,
